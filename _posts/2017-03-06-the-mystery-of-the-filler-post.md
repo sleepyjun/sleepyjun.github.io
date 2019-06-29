@@ -1,4 +1,5 @@
 ---
+categories: [Algorithm]
 layout: post
 title: "The Mystery of the Filler Post"
 author: "Chester"

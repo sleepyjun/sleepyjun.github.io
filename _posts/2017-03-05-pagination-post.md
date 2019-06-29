@@ -1,4 +1,5 @@
 ---
+categories: [cpp]
 layout: post
 title: "Pagination Post"
 author: "Chester"
