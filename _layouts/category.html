@@ -10,7 +10,7 @@ layout: default
         <a href="{{ site.baseurl }}{{ post.url }}">
           {{ post.title }}
         </a>
-        <small>{{ post.date | date_to_string }}</small>
+        <small>{{ post.date | date: "%Y. %m. %d.(%a)" }}</small>
       </h3>
     </li>
   {% endfor %}
