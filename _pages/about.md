@@ -1,15 +1,17 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "sleepyjun"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
-
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
-
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+# Profile
+- 충주고등학교 졸업
+- 숭실대학교 입학 (2017)
+- 현재 군복무 중..
+- [Github](https://github.com/sleepyjun)
+- [BOJ](https://www.acmicpc.net/user/sestrik)  
+막연하게 컴퓨터 관련 분야로 가야겠다 싶어서 성적 맞춰서 들어간 대학교..  
+나름대로 만족하며 프로그래밍에 흥미도 느끼고 여러 가지 관련 공부도 하며 살고 있음.  
+현재로서 제일 흥미 있는 것은 웹 프로그래밍과 알고리즘 C++이다.  
+너무나도 모자란 실력이기 때문에 늘 사지방에서 나오질 않고 있다.
