@@ -8,8 +8,6 @@ categories: [info]
 # 완전 초보를 위한 깃허브
 > 출처: <https://nolboo.kim/blog/2013/10/06/github-for-beginner/>
 
-06 Oct 2013
-
 원문 : 1. [GitHub For Beginners: Don’t Get Scared, Get Started][1] 2. [GitHub For Beginners: Commit, Push And Go][2]
 
 목차
