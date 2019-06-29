@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Sleep is my life
+description:    "Study summary place"
 baseurl:        ""
 url:            "https://sleepyjun.github.io"
 
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         sleepyjun
+  url:          https://sleepyjun.github.io
+  email:        sestrik@naver.com
 
 # Build settings
 markdown:       kramdown
