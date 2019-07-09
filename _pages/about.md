@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "소개"
+title: "SleepyJun | 소개"
 author: "sleepyjun"
 permalink: /about/
 ---
