@@ -3,7 +3,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   {% seo title=false %}
-	<title>SleepyJun</title>
+	
+	{% if post.title %}
+    <title>{{ post.title }}</title>
+	{% else %}
+		<title>{{ SleepyJun }}</title>
+  {% endif %}
   <!-- CSS -->
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
