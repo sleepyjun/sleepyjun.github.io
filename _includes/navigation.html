@@ -1,21 +1,23 @@
 <nav class="nav">
-  <div class="nav-container">
-    <a href="{{ site.baseurl }}/">
-      <h2 class="nav-title">{{ site.title }}</h2>
-    </a>
-    <ul>
-      <li><a href="{{ '/about' | prepend: site.baseurl }}">소개</a></li>
-      <!-- <li><a href="{{ site.baseurl }}/">Posts</a></li> -->
-		{% assign pages_list = site.pages %}
-    	{% for node in pages_list %}
-      	{% if node.title != null %}
-        	{% if node.layout == "category" %}
-          		<li><a class="category-link {% if page.url == node.url %} active{% endif %}"
-          		href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
-        	{% endif %}
-      	{% endif %}
-    	{% endfor %}
-    
-    </ul>
-  </div>
+	<div class="nav-container">
+		<a href="{{ site.baseurl }}/">
+			<h2 class="nav-title">{{ site.title }}</h2>
+		</a>
+		<ul>
+			<li>
+				<a href="{{ '/about' | prepend: site.baseurl }}">소개</a>
+			</li>
+			<!-- <li><a href="{{ site.baseurl }}/">Posts</a></li> -->
+			<li class="dropdown">Category
+				<div class="dropdown-content">
+					{% assign pages_list = site.pages %} 
+					{% for node in pages_list %} 
+					{% if node.title != null %} 
+					{% if node.layout == "category" %}
+						<a class="category-link {% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+					{% endif %} {% endif %} {% endfor %}
+				</div>
+			</li>
+		</ul>
+	</div>
 </nav>
