@@ -68,11 +68,13 @@ footer,
 	
 	.dropdown {	
 		input { display: none; }
+		
 		input:checked~div {
 			position: fixed;
   		display:block
 		}
-		lable {
+		
+		label {
 			position:relative;
 			display:block;
 			cursor:pointer;
