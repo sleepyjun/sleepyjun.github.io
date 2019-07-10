@@ -58,6 +58,7 @@ footer,
     &:focus {
       opacity: 1;
     }
+		
   }
 
   a {
@@ -71,15 +72,12 @@ footer,
 			position: fixed;
   		display:block
 		}
-		input:checked~div > a {
-			background-color: #f1f1f1;
-		}
 		lable {
 			position:relative;
 			display:block;
 			cursor:pointer;
 		}
-
+		opacity: 1;
 	}
 	
 	.dropdown-content {
@@ -97,7 +95,9 @@ footer,
 			display: block;
 			text-align: left;
 		}
-
+		a:hover {
+			background-color: #f1f1f1;
+		}
 	}
 	// .dropdown:hover .dropdown-content {
 	// 	display: block;
