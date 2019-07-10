@@ -8,7 +8,9 @@
 				<a href="{{ '/about' | prepend: site.baseurl }}">소개</a>
 			</li>
 			<!-- <li><a href="{{ site.baseurl }}/">Posts</a></li> -->
-			<li class="dropdown">Category
+			<li class="dropdown">
+				<input id="chk-dropdown" type="checkbox" name="menu">
+				<label for="chk-dropdown">Category</label>
 				<div class="dropdown-content">
 					{% assign pages_list = site.pages %} 
 					{% for node in pages_list %} 
