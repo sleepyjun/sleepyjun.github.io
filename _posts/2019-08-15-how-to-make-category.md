@@ -28,7 +28,7 @@ Tale테마가 제일 예쁘다고 생각되서 바로 포크해서 가져왔다.
 
 일단 카테고리 폴더를 생성해준다.  
 그 후 카테고리의 이름.md 파일을 생성한 후 파일안에 이런식으로 작성한다  
-<img src="/assets/images/2019-08-15-how-to-make-category/category.jpg"/>
+![tale](/assets/images/2019-08-15-how-to-make-category/tale.jpg)
 <img src="/assets/images/2019-08-15-how-to-make-category/categorymd.jpg"/>
 
 ## 3. Tale nav의 구조 및 수정
