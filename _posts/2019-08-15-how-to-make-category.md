@@ -8,7 +8,7 @@ categories: [web]
 필자는 [Jekyll](https://jekyllrb-ko.github.io/)의 [Tale](https://github.com/chesterhow/tale/)테마를 이용해서 Github Page를 운영하고 있다.
 
 Tale테마가 제일 예쁘다고 생각되서 바로 포크해서 가져왔다.  
-<img src="/assets/images/2019-08-15-how-to-make-category/tale.jpg"/>
+<img src="/assets/images/2019-08-15-how-to-make-category/tale.JPG" />
 
 페이지네이션도 있고 무엇보다 깔끔해서 마음에 들었는데 한가지 의문점이 들었다.  
 > 도대체 Tale과 Posts는 왜 같은 곳을 가리키는거지??
@@ -28,7 +28,7 @@ Tale테마가 제일 예쁘다고 생각되서 바로 포크해서 가져왔다.
 
 일단 카테고리 폴더를 생성해준다.  
 그 후 카테고리의 이름.md 파일을 생성한 후 파일안에 이런식으로 작성한다  
-![tale](/assets/images/2019-08-15-how-to-make-category/tale.jpg)
+<img src="/assets/images/2019-08-15-how-to-make-category/category.JPG" />
 <img src="/assets/images/2019-08-15-how-to-make-category/categorymd.jpg"/>
 
 ## 3. Tale nav의 구조 및 수정
