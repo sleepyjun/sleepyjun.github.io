@@ -26,7 +26,8 @@ Tale테마가 제일 예쁘다고 생각되서 바로 포크해서 가져왔다.
 
 물론 필자는 루비에 전혀 지식이 없기에 검색엔진과 이 블로그를 상당히 많이 참조했다.  
 
-일단 카테고리 폴더를 생성해준다.  <img src="/assets/images/2019-08-15-how-to-make-category/category.JPG" />  
+일단 카테고리 폴더를 생성해준다.  
+<img src="/assets/images/2019-08-15-how-to-make-category/category.JPG" />  
 그 후 카테고리의 이름.md 파일을 생성한 후 파일안에 이런식으로 작성한다
 ```
 ---
