@@ -54,8 +54,7 @@ Tale은 크게 나눴을때 nav, main, footer로 구성되어있다.
 </nav>
 ```  
 역시 site.baseurl이 중복으로 나타나고 있다.  
-
-```
+<pre><code class="ruby">
 <li>
 		{% assign pages_list = site.pages %} 
 		{% for node in pages_list %} 
@@ -64,7 +63,8 @@ Tale은 크게 나눴을때 nav, main, footer로 구성되어있다.
 		<a class="category-link {% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
 		{% endif %} {% endif %} {% endfor %}
 </li>
-```  
+</code></pre>
+  
 이렇게 하면 내가 생성한 카테고리들이 싹 나온다!  
 이제 클릭했을시 카테고리에 해당하는 포스트들을 보여주기위해 _layouts폴더에 category.html을 만들고 이와 같이 작성한다.
 ```
