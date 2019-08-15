@@ -15,7 +15,6 @@ footer,
 
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
-  overflow: hidden;
 
   &-container {
     margin: 1rem auto;
@@ -85,6 +84,7 @@ footer,
 		min-width:115px;
 		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 		display: none;
+		position: absolute;
 		a {
 			color: black;
 			padding: 12px 16px;
@@ -97,7 +97,7 @@ footer,
 		}
 	}
 }
-
+.nav::after { content:''; display:table; clear:both; }
 
 @media (min-width: 600px) {
   .nav {
