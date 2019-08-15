@@ -69,7 +69,7 @@ footer,
 	.dropdown {	
 		input { display: none; }
 		
-		input:checked~ul.dropdown.content {
+		input:checked~ul.dropdown-content {
   		display:block
 		}
 		
