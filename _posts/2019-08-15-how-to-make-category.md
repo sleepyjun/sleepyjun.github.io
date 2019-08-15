@@ -28,8 +28,8 @@ Tale테마가 제일 예쁘다고 생각되서 바로 포크해서 가져왔다.
 
 일단 카테고리 폴더를 생성해준다.  
 그 후 카테고리의 이름.md 파일을 생성한 후 파일안에 이런식으로 작성한다  
-<img src="/assets/images/2019-08-15-how-to-make-category/category.JPG" />
-<img src="/assets/images/2019-08-15-how-to-make-category/categorymd.jpg"/>
+<img src="/assets/images/2019-08-15-how-to-make-category/category.JPG" />  
+<img src="/assets/images/2019-08-15-how-to-make-category/categorymd.JPG"/>
 
 ## 3. Tale nav의 구조 및 수정
 Tale은 크게 나눴을때 nav, main, footer로 구성되어있다.  
@@ -105,11 +105,11 @@ layout: default
 >hover와 click둘다 해봤지만 click쪽이 아무래도 편했다
 
 문제는 이 li태그를 감싸는 .nav가 overflow: auto;이기에 드롭다운 메뉴를 펼치면 .nav안에 스크롤이 생기는 것이다.  
-<img src="/assets/images/2019-08-15-how-to-make-category/scroll.jpg"/>
+<img src="/assets/images/2019-08-15-how-to-make-category/scroll.JPG"/>
 
 처음 프로토타입은 div에 position:fixed를 주어 해결했다.
 >고 생각했다.  
-<img src="/assets/images/2019-08-15-how-to-make-category/fixed.jpg"/>
+<img src="/assets/images/2019-08-15-how-to-make-category/fixed.JPG"/>
 보다시피 카테고리 스스로 스크롤을 따라서 움직였다. position: fixed탓이었다..  
 
 문제점을 파악하고 overflow대신 가상선택자 ::after을 이용해서 레이아웃을 개선했다.
