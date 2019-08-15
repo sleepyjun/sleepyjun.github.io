@@ -11,14 +11,14 @@
 			<li class="dropdown">
 				<input id="chk-dropdown" type="checkbox" name="menu">
 				<label for="chk-dropdown">Category</label>
-				<div class="dropdown-content">
+				<ul class="dropdown-content">
 					{% assign pages_list = site.pages %} 
 					{% for node in pages_list %} 
 					{% if node.title != null %} 
 					{% if node.layout == "category" %}
-						<a class="category-link {% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+					<li><a class="category-link {% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
 					{% endif %} {% endif %} {% endfor %}
-				</div>
+				</ul>
 			</li>
 		</ul>
 	</div>
