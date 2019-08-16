@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://sleepyjun.github.io/sitemap.xml
