@@ -49,6 +49,7 @@ ___
 #### 4.2. CSS
 - [CSS3 generator](http://css3generator.com)
 
+- [CSS3 Clippy](https://bennettfeely.com/clippy/) - 온갖 도형 생성
 - [Gradient-gen](http://www.colorzilla.com/gradient-editor) 
 
 - [Eric Meyer's Reset CSS](http://meyerweb.com/eric/tools/css/reset)
