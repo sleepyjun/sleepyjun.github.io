@@ -28,23 +28,23 @@ ___
 ---
 
 ## 2. 튜토리얼
-#### 2.1. MarkDown
+### 2.1. MarkDown
 - [마크다운 (Markdown) 문법으로 간결한 Note 문서 작성](https://how-to-use.tistory.com/2)
 
-#### 2.2. Git
+### 2.2. Git
 - [완전초보를 위한 깃허브](https://nolboo.kim/blog/2013/10/06/github-for-beginner/)
 
-#### 2.3. Web
+### 2.3. Web
 - [W3schools.com](https://www.w3schools.com/) - 다양한 웹 언어 공부 공간
 
 - [생활코딩](https://www.opentutorials.org/course/1)
 
-#### 2.4. C & C++
+### 2.4. C & C++
 - [Soen.kr](http://soen.kr/)
 
 - [모두의 코드](https://modoocode.com/)
 
-#### 2.5. 수학
+### 2.5. 수학
 - [선형대수 정리](https://twlab.tistory.com/category/Fundamentals/Linear%20Algebra) 
 
 ---
@@ -59,14 +59,14 @@ ___
 ___
 
 ## 4. 웹 개발
-#### 4.1. HTML
+### 4.1. HTML
 - [Lorem ipsum](http://lipsum.com) - 아무말 대잔치
 
 - [placehold.it](http://placehold.it) - 이미지 크기 테스팅
 
 - [codepen.io](codepen.io) - 다양한 프론트 코드들 올리는 곳
 
-#### 4.2. CSS
+### 4.2. CSS
 - [CSS3 generator](http://css3generator.com)
 
 - [CSS3 Clippy](https://bennettfeely.com/clippy/) - 온갖 도형 생성  
@@ -91,17 +91,17 @@ ___
 
 - [User Define transition func](http://cubic-bezier.com)  
 
-#### 4.3. PHP
+### 4.3. PHP
 - [PDO Class init](https://stackoverflow.com/questions/30396328/access-the-php-pdo-object-in-another-file)
 
-#### 4.4. 서버
+### 4.4. 서버
 - [아파치 Forbidden You don’t have permission to access / on this server. 에러 해결](https://mytory.net/archives/3143)  
 
 - [www-data permission](https://stackoverflow.com/questions/9133024/www-data-permissions)
 
 - [MultiDomain](https://www.linux.co.kr/unixwebhosting/multidomain/multidomain.htm)
 
-#### 4.5. 기타
+### 4.5. 기타
 - [웹 개발자가 되는 방법](https://blog.cordelia273.space/7)
 
 ___
