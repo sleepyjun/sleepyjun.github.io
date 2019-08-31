@@ -5,7 +5,7 @@ author: "sleepyjun"
 categories: [web]
 ---
 ## 1. 서론
-필자는 [Jekyll](https://jekyllrb-ko.github.io/)의 [Tale](https://github.com/chesterhow/tale/)테마를 이용해서 Github Page를 운영하고 있다.
+필자는 [Jekyll](https://jekyllrb-ko.github.io/){:target="_blank"}의 [Tale](https://github.com/chesterhow/tale/){:target="_blank"}테마를 이용해서 Github Page를 운영하고 있다.
 
 Tale테마가 제일 예쁘다고 생각되서 바로 포크해서 가져왔다.  
 <img src="/assets/images/2019-08-15-how-to-make-category/tale.JPG" />
@@ -22,7 +22,7 @@ Tale테마가 제일 예쁘다고 생각되서 바로 포크해서 가져왔다.
 ## 2. 카테고리 생성
 기본적으로 Tale엔 카테고리가 없기에 만들어야한다.  
 
-출처: [지킬(Jekyll) 블로그 카테고리(category) 만들기](https://devyurim.github.io/development%20environment/github%20blog/2018/08/07/blog-6.html)  
+출처: [지킬(Jekyll) 블로그 카테고리(category) 만들기](https://devyurim.github.io/development%20environment/github%20blog/2018/08/07/blog-6.html){:target="_blank"}  
 
 물론 필자는 루비에 전혀 지식이 없기에 검색엔진과 이 블로그를 상당히 많이 참조했다.  
 
