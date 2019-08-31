@@ -5,18 +5,18 @@ author: "sleepyjun"
 categories: [info]
 ---
 
-## 앞으로 공부할때 참조하면 좋을 것들
+# 앞으로 공부할때 참조하면 좋을 것들
  > 필자의 주관 100%  
 
 ---
-### 0. 필수
+## 0. 필수
 - [Google](https://www.google.com/)
 
 - [StackOverflow](https://stackoverflow.com/)
 
 ___
 
-### 1. 자료
+## 1. 자료
 - [무료 eBook 모음](https://github.com/EbookFoundation/free-programming-books)
 
 - [번역글 위키](https://github.com/nolboo/nolboo.github.io/wiki)
@@ -27,7 +27,7 @@ ___
 
 ---
 
-### 2. 튜토리얼
+## 2. 튜토리얼
 #### 2.1. MarkDown
 - [마크다운 (Markdown) 문법으로 간결한 Note 문서 작성](https://how-to-use.tistory.com/2)
 
@@ -49,7 +49,7 @@ ___
 
 ---
 
-### 3. 알고리즘
+## 3. 알고리즘
 - [BOJ](https://www.acmicpc.net/) - 백준 온라인 저지
 
 - [Algospot](https://algospot.com/) - 알고스팟
@@ -58,7 +58,7 @@ ___
 
 ___
 
-### 4. 웹 개발
+## 4. 웹 개발
 #### 4.1. HTML
 - [Lorem ipsum](http://lipsum.com) - 아무말 대잔치
 
@@ -69,7 +69,8 @@ ___
 #### 4.2. CSS
 - [CSS3 generator](http://css3generator.com)
 
-- [CSS3 Clippy](https://bennettfeely.com/clippy/) - 온갖 도형 생성
+- [CSS3 Clippy](https://bennettfeely.com/clippy/) - 온갖 도형 생성  
+
 - [Gradient-gen](http://www.colorzilla.com/gradient-editor) 
 
 - [Eric Meyer's Reset CSS](http://meyerweb.com/eric/tools/css/reset)
@@ -105,7 +106,7 @@ ___
 
 ___
 
-### 5. C & C++
+## 5. C & C++
 - [cplusplus.com](http://www.cplusplus.com/) - 레퍼런스
 
 - [cppreference.com](https://en.cppreference.com/w/) - 레퍼런스  

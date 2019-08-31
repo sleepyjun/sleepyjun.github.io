@@ -64,12 +64,18 @@ footer,
     color: $default-color;
     font-family: $sans-serif;
   }
+	
 	//dropdown layout
 	.dropdown {	
 		input { display: none; }
 		
 		input:checked~div {
-  		display:block
+  		max-height: 300px;
+			-webkit-transition: max-height 0.3s ease-out;
+			-moz-transition: max-height 0.3s ease-out;
+			-ms-transition: max-height 0.3s ease-out;
+			-o-transition: max-height 0.3s ease-out;
+			transition: max-height 0.3s ease-out;
 		}
 		
 		label {
@@ -80,10 +86,17 @@ footer,
 	}
 	
 	.dropdown-content {
+		-webkit-transition: max-height 0.3s ease-out;
+		-moz-transition: max-height 0.3s ease-out;
+		-ms-transition: max-height 0.3s ease-out;
+		-o-transition: max-height 0.3s ease-out;
+		transition: max-height 0.3s ease-out;
+		
+		overflow: hidden;
 		background-color: #f9f9f9;
-		min-width:115px;
+		min-width: 100%;
+		max-height: 0px;
 		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-		display: none;
 		position: absolute;
 		a {
 			color: black;
