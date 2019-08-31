@@ -23,7 +23,8 @@ ___
 
 - [코딩 인터뷰 대학](https://github.com/jwasham/coding-interview-university)
 
-- [StackOverflow Survey](https://insights.stackoverflow.com/survey/2019)
+- [StackOverflow Survey](https://insights.stackoverflow.com/survey/2019)  
+
 ---
 
 ### 2. 튜토리얼
@@ -107,8 +108,12 @@ ___
 ### 5. C & C++
 - [cplusplus.com](http://www.cplusplus.com/) - 레퍼런스
 
-- [cppreference.com](https://en.cppreference.com/w/) - 레퍼런스
+- [cppreference.com](https://en.cppreference.com/w/) - 레퍼런스  
+
 ___
 
 ### 6. 수학
 - [WolframAlpha](https://www.wolframalpha.com/) - 각종 계산
+
+___
+
