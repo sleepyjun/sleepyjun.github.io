@@ -111,9 +111,11 @@ ___
 
 - [cppreference.com](https://en.cppreference.com/w/){:target="_blank"} - 레퍼런스  
 
+- [Awesome C++](https://github.com/fffaraz/awesome-cpp) - 유용한 라이브러리 모음
+
 ___
 
-### 6. 수학
+## 6. 수학
 - [WolframAlpha](https://www.wolframalpha.com/){:target="_blank"} - 각종 계산
 
 ___
