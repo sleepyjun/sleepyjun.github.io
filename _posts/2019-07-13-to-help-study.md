@@ -104,7 +104,7 @@ ___
 ### 4.5. 기타
 - [웹 개발자가 되는 방법](https://blog.cordelia273.space/7){:target="_blank"}
 
-- [How to design Wiki](https://stackoverflow.com/questions/1625994/how-to-design-and-implement-a-wiki){:target="_blank"}
+- [Designing Wiki](https://stackoverflow.com/questions/273460/designing-a-wiki-design-considerations-and-feedback){:target="_blank"}
 
 ___
 
