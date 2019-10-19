@@ -27,8 +27,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-feed
-  # - jemoji #Uncomment this to allow emoji in your post
+	- jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:categories/:title #/:year-:month-:day/:title
