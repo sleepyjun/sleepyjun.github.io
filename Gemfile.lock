@@ -244,8 +244,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-paginate
-  jekyll-seo-tag
 
 BUNDLED WITH
    2.0.2
