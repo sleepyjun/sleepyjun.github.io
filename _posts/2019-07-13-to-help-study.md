@@ -107,6 +107,7 @@ ___
 - [Designing Wiki](https://stackoverflow.com/questions/273460/designing-a-wiki-design-considerations-and-feedback){:target="_blank"}
 
 - [제가 제안하는 신입분들의 프로그래밍 공부법 by zepinos](https://okky.kr/article/329269){:target="_blank"}
+
 ___
 
 ## 5. C & C++
