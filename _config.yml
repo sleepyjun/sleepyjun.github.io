@@ -1,4 +1,5 @@
 # Site settings
+remote_theme: chesterhow/tale
 title:          Sleep is my life
 description:    "Study summary place"
 baseurl:        ""
@@ -27,7 +28,8 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
-
+	- jekyll-remote-theme
+	
 # Permalinks
 permalink:      /:categories/:title #/:year-:month-:day/:title
 paginate:       5
